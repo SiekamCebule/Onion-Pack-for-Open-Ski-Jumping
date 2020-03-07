@@ -3,8 +3,8 @@
 
 [PL]
 
-To jest paczka ze skoczniami do gry Open Ski Jumping.
-Musisz najpierw pobrać plik .txt wejść w niego, Jeśli wkleiłeś albo zmieniłeś kiedyś skocznie i chcesz je dalej mieć musisz skopiować cały tekst z pliku i wkleić do pliku w folderze z grą: Open Ski Jumping_Data\StreamingAssets\data.json (jeśli nie wiesz jak wkleić skocznie wyjaśnię to poniżej).
+<b>To jest paczka ze skoczniami do gry Open Ski Jumping.
+Musisz najpierw pobrać plik .txt wejść w niego, Jeśli wkleiłeś albo zmieniłeś kiedyś skocznie i chcesz je dalej mieć musisz skopiować cały tekst z pliku i wkleić do pliku w folderze z grą: Open Ski Jumping_Data\StreamingAssets\data.json (jeśli nie wiesz jak wkleić skocznie wyjaśnię to poniżej).<b>
 
 
 Jeśli nie zmieniałeś pliku data.json to po prostu podmień te pliki.
@@ -15,6 +15,37 @@ Ja używam do tego programu Virtual Studio Code.
 W programie VS Code kliknij Ctrl+Shift+P, i otworzy ci się takie okienko napisz tam "format document" i to kliknij i zrobi ci się fajny przejrzysty kod.
 zjedź na sam dół pliku i znajdź znak } pod parametrami skoczni dopisz po tym przecinek daj enter i i Ctrl+V aby wkleić.
 
+
+Lista Skoczni / Hills List:
+
+Luxembourg HS220
+Podlaise HS130
+Kożuchów HS22
+Świętochłowice HS70
+Watykan HS120
+Paris HS230
+Paris HS138
+Paris HS109
+Malmo HS100
+Kuusamo HS250
+Beograd HS142
+Sydney HS220
+Sydney HS142
+Sydney HS106
+Sydney HS78
+Sydney HS67
+Sydney HS40
+Sydney HS22
+Londyn HS500
+Bergen HS138
+Stokholm HS140
+Stokholm HS108
+Budapest HS132
+Jojowo HS49 (No country)
+Piaski HS123
+Delnice HS95
+Warsaw HS70
+Strzyżów HS30
 
 
 [ENG]
