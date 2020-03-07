@@ -3,8 +3,8 @@
 
 [PL]
 
-<b>To jest paczka ze skoczniami do gry Open Ski Jumping.
-Musisz najpierw pobrać plik .txt wejść w niego, Jeśli wkleiłeś albo zmieniłeś kiedyś skocznie i chcesz je dalej mieć musisz skopiować cały tekst z pliku i wkleić do pliku w folderze z grą: Open Ski Jumping_Data\StreamingAssets\data.json (jeśli nie wiesz jak wkleić skocznie wyjaśnię to poniżej).<b>
+To jest paczka ze skoczniami do gry Open Ski Jumping.
+Musisz najpierw pobrać plik .txt wejść w niego, Jeśli wkleiłeś albo zmieniłeś kiedyś skocznie i chcesz je dalej mieć musisz skopiować cały tekst z pliku i wkleić do pliku w folderze z grą: Open Ski Jumping_Data\StreamingAssets\data.json (jeśli nie wiesz jak wkleić skocznie wyjaśnię to poniżej).
 
 
 Jeśli nie zmieniałeś pliku data.json to po prostu podmień te pliki.
@@ -18,6 +18,8 @@ zjedź na sam dół pliku i znajdź znak } pod parametrami skoczni dopisz po tym
 
 Lista Skoczni / Hills List:
 
+
+<i>
 Luxembourg HS220
 Podlaise HS130
 Kożuchów HS22
@@ -46,7 +48,7 @@ Piaski HS123
 Delnice HS95
 Warsaw HS70
 Strzyżów HS30
-
+</i>
 
 [ENG]
 
