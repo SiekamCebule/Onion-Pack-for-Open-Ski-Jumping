@@ -19,8 +19,8 @@ zjedź na sam dół pliku i znajdź znak } pod parametrami skoczni dopisz po tym
 Lista Skoczni / Hills List:
 
 
-<i>
-Luxembourg HS220
+
+Luxembourg HS220 <br>
 Podlaise HS130
 Kożuchów HS22
 Świętochłowice HS70
@@ -48,7 +48,7 @@ Piaski HS123
 Delnice HS95
 Warsaw HS70
 Strzyżów HS30
-</i>
+
 
 [ENG]
 
