@@ -1,7 +1,7 @@
 # Open-Ski-Jumping-Fiction-Hill-Pack
 
 
-<strong> [PL] </strong>
+<p style="font size: 40px"> <strong> [PL] </strong> </p>
 
 To jest paczka ze skoczniami do gry Open Ski Jumping.
 Musisz najpierw pobrać plik .txt wejść w niego, Jeśli wkleiłeś albo zmieniłeś kiedyś skocznie i chcesz je dalej mieć musisz skopiować cały tekst z pliku i wkleić do pliku w folderze z grą: Open Ski Jumping_Data\StreamingAssets\data.json (jeśli nie wiesz jak wkleić skocznie wyjaśnię to poniżej).
@@ -50,7 +50,7 @@ Warsaw HS70 <br>
 Strzyżów HS30
 
 
-[ENG]
+<p style="font size: 40px"> <strong> [ENG] </strong> </p>
 
 
 This is the Open Ski Jumping package.
