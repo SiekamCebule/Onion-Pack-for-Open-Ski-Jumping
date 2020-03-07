@@ -1,7 +1,7 @@
 # Open-Ski-Jumping-Fiction-Hill-Pack
 
 
-[PL]
+<strong> [PL] </strong>
 
 To jest paczka ze skoczniami do gry Open Ski Jumping.
 Musisz najpierw pobrać plik .txt wejść w niego, Jeśli wkleiłeś albo zmieniłeś kiedyś skocznie i chcesz je dalej mieć musisz skopiować cały tekst z pliku i wkleić do pliku w folderze z grą: Open Ski Jumping_Data\StreamingAssets\data.json (jeśli nie wiesz jak wkleić skocznie wyjaśnię to poniżej).
