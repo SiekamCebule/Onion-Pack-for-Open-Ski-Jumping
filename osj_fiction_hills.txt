@@ -575,7 +575,7 @@
             "q": 0.0
         },
         {
-            "name": "Londyn HS400*",
+            "name": "Londyn HS500*",
             "terrainSteepness": 0.304285765,
             "type": 2,
             "gates": 80,
