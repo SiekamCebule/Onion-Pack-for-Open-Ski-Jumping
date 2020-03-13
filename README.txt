@@ -54,13 +54,13 @@ Strzyżów HS30
 
 
 This is the Open Ski Jumping package.
-You must first download the .txt file to enter it, If you pasted or once changed a ski jump and you want to keep it going you need to copy all the text from the file and paste into the file in the game folder: Open Ski Jumping_Data \ StreamingAssets \ data.json (if you don't know how I will explain this below).
+You must first download the .txt file to enter it, If you have pasted or changed the jump once and you want to have it still you have to copy all the text from the file and paste into the file in the game folder: Open Ski Jumping_Data \ StreamingAssets \ data.json (if you don't know how I will explain this below).
 
 
-If you haven't changed the data.json file then simply replace these files.
+If you have not changed the data.json file then replace the data.json file which will be available for download.
 
 
 How to paste the hills?
 I use Virtual Studio Code for this.
-In the VS Code program, click Ctrl + Shift + P, and a window will open, write "format document" there and click it and you will get a nice transparent code.
-go to the bottom of the file and find the} mark under the jump parameters, add a comma after that, enter enter and Ctrl + V to paste.
+In the VS Code program, click Ctrl + Shift + P, and a window will open to you, write "format document" there and click it and you will get a nice transparent code.
+go to the bottom of the file and find the} sign under the hill parameters, add a comma after that, enter enter and Ctrl + V to paste.
