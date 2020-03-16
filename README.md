@@ -17,37 +17,34 @@ zjedź na sam dół pliku i znajdź znak } pod parametrami skoczni dopisz po tym
 
 
 Lista Skoczni / Hills List:
-
-
-
-Luxembourg HS220 <br>
-Podlaise HS130 <br>
-Kożuchów HS22 <br>
-Świętochłowice HS70 <br>
-Watykan HS120 <br>
-Paris HS230 <br>
-Paris HS138 <br>
-Paris HS109 <br>
-Malmo HS100 <br>
-Kuusamo HS250 <br>
-Beograd HS142 <br>
-Sydney HS220 <br>
-Sydney HS142 <br>
-Sydney HS106 <br>
-Sydney HS78 <br>
-Sydney HS67 <br>
-Sydney HS40 <br>
-Sydney HS22 <br>
-Londyn HS500 <br>
-Bergen HS138 <br>
-Stokholm HS140 <br>
-Stokholm HS108 <br>
-Budapest HS132 <br>
-Jojowo HS49 (No country) <br>
-Piaski HS123 <br>
-Delnice HS95 <br>
-Warsaw HS70 <br>
-Strzyżów HS30
+- Luxembourg HS220 
+- Podlaise HS130 
+- Kożuchów HS22 
+- Świętochłowice HS70 
+- Watykan HS120 
+- Paris HS230 
+- Paris HS138 
+- Paris HS109 
+- Malmo HS100 
+- Kuusamo HS250 
+- Beograd HS142 
+- Sydney HS220 
+- Sydney HS142 
+- Sydney HS106 
+- Sydney HS78 
+- Sydney HS67 
+- Sydney HS40 
+- Sydney HS22 
+- Londyn HS500 
+- Bergen HS138 
+- Stokholm HS140 
+- Stokholm HS108 
+- Budapest HS132 
+- Jojowo HS49 (No country) 
+- Piaski HS123 
+- Delnice HS95 
+- Warsaw HS70 
+- Strzyżów HS30
 
 
 [ENG]
