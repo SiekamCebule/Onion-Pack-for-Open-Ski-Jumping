@@ -16,6 +16,10 @@ W programie VS Code kliknij Ctrl+Shift+P, i otworzy ci się takie okienko napisz
 zjedź na sam dół pliku i znajdź znak } pod parametrami skoczni dopisz po tym przecinek daj enter i i Ctrl+V aby wkleić.
 
 
+Zobacz jeszcze paczke kalendarzy: https://github.com/SiekamCebule/Open-Ski-Jumping-Calendars
+
+
+
 Lista Skoczni / Hills List:
 - Luxembourg HS220 
 - Podlaise HS130 
@@ -61,3 +65,6 @@ How to paste the hills?
 I use Virtual Studio Code for this.
 In the VS Code program, click Ctrl + Shift + P, and a window will open to you, write "format document" there and click it and you will get a nice transparent code.
 go to the bottom of the file and find the} sign under the hill parameters, add a comma after that, enter enter and Ctrl + V to paste.
+
+
+See also a packet of calendars: https://github.com/SiekamCebule/Open-Ski-Jumping-Calendars
