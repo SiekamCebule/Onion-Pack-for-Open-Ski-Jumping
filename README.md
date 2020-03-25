@@ -15,6 +15,7 @@ Ja używam do tego programu Virtual Studio Code.
 W programie VS Code kliknij Ctrl+Shift+P, i otworzy ci się takie okienko napisz tam "format document" i to kliknij i zrobi ci się fajny przejrzysty kod.
 zjedź na sam dół pliku i znajdź znak } pod parametrami skoczni dopisz po tym przecinek daj enter i i Ctrl+V aby wkleić.
 
+Jeżeli jest jakaś nazwa w nawiasie po myślniku obok nazwy skoczni to jest to osoba która zrobiła tą skocznie.
 
 Zobacz jeszcze paczke kalendarzy: https://github.com/SiekamCebule/Open-Ski-Jumping-Calendars
 
@@ -49,7 +50,15 @@ Lista Skoczni / Hills List:
 - Delnice HS95 
 - Warsaw HS70 
 - Strzyżów HS30
-
+- Lindau HS108 - (Pat Sch)
+- Zawoja HS144 - (Pat Sch)
+- Lindau HS40 - (Pat Sch)
+- Stary Smokovec HS136 - (Pat Sch)
+- Neckarsulm HS152 - (Pat Sch)
+- Zenica HS130 - (Pat Sch)
+- Auerbach HS240 - (Pat Sch)
+- Rechnitz HS138 - (Pat Sch)
+- Stjordal HS143 - (Pat Sch)
 
 [ENG]
 
@@ -66,5 +75,6 @@ I use Virtual Studio Code for this.
 In the VS Code program, click Ctrl + Shift + P, and a window will open to you, write "format document" there and click it and you will get a nice transparent code.
 go to the bottom of the file and find the} sign under the hill parameters, add a comma after that, enter enter and Ctrl + V to paste.
 
+If there is a name in brackets after the dash next to the name of the hill then it is the person who made the hill.
 
 See also a packet of calendars: https://github.com/SiekamCebule/Open-Ski-Jumping-Calendars
