@@ -45,7 +45,7 @@ Lista Skoczni / Hills List:
 - Stokholm HS140 
 - Stokholm HS108 
 - Budapest HS132 
-- Jojowo HS49 (No country) 
+- Jojowo HS49
 - Piaski HS123 
 - Delnice HS95 
 - Warsaw HS70 
@@ -59,6 +59,7 @@ Lista Skoczni / Hills List:
 - Auerbach HS240 - (Pat Sch)
 - Rechnitz HS138 - (Pat Sch)
 - Stjordal HS143 - (Pat Sch)
+- Santo Domingo HS129
 
 [ENG]
 
