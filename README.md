@@ -61,6 +61,7 @@ Lista Skoczni / Hills List:
 - Rechnitz HS138 - (Pat Sch)
 - Stjordal HS143 - (Pat Sch)
 - Santo Domingo HS129
+- Korbielow HS205 (Jonek2208)
 
 [ENG]
 
