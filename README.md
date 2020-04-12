@@ -62,6 +62,7 @@ Lista Skoczni / Hills List:
 - Stjordal HS143 - (Pat Sch)
 - Santo Domingo HS129
 - Korbielow HS205 (Jonek2208)
+- Chernobyl K86 (Jonek2208)
 
 [ENG]
 
