@@ -57,7 +57,6 @@ Lista Skoczni / Hills List:
 - Stary Smokovec HS136 - (Pat Sch)
 - Neckarsulm HS152 - (Pat Sch)
 - Zenica HS130 - (Pat Sch)
-- Auerbach HS240 - (Pat Sch)
 - Rechnitz HS138 - (Pat Sch)
 - Stjordal HS143 - (Pat Sch)
 - Santo Domingo HS129
