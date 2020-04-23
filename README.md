@@ -29,45 +29,59 @@ w pliku .txt są tylko skocznie z mojej paczki, a w plku .json również ze oryg
 
 
 Lista Skoczni / Hills List:
-- Luxembourg HS220 
-- Podlaise HS130 
-- Kożuchów HS22 
-- Świętochłowice HS70 
-- Watykan HS120 
-- Paris HS230 
-- Paris HS138 
-- Paris HS109 
-- Malmo HS100 
-- Kuusamo HS250 
-- Beograd HS142 
-- Sydney HS220 
-- Sydney HS142 
-- Sydney HS106 
-- Sydney HS78 
-- Sydney HS67 
-- Sydney HS40 
-- Sydney HS22 
-- Londyn HS500 
-- Bergen HS138 
-- Stokholm HS140 
-- Stokholm HS108 
-- Budapest HS132 
-- Jojowo HS49
-- Piaski HS123 
-- Delnice HS95 
-- Warsaw HS70 
-- Strzyżów HS30
-- Lindau HS108 - (Pat Sch)
-- Zawoja HS144 - (Pat Sch)
-- Lindau HS40 - (Pat Sch)
-- Stary Smokovec HS136 - (Pat Sch)
-- Neckarsulm HS152 - (Pat Sch)
-- Zenica HS130 - (Pat Sch)
-- Rechnitz HS138 - (Pat Sch)
-- Stjordal HS143 - (Pat Sch)
-- Santo Domingo HS129
-- Korbielow HS205 (Jonek2208)
-- Chernobyl K86 (Jonek2208)
+- Luxembourg HS220 *
+- Podlaise HS130 *
+- Kożuchów HS22 *
+- Świętochłowice HS70 *
+- Watykan HS120 *
+- Paris HS230 *
+- Paris HS138 *
+- Paris HS109 *
+- Malmo HS100 *
+- Kuusamo HS250 * 
+- Beograd HS142 *
+- Sydney HS220 *
+- Sydney HS142 *
+- Sydney HS106 *
+- Sydney HS78 *
+- Sydney HS67 *
+- Sydney HS40 *
+- Sydney HS22 *
+- Londyn HS500 *
+- Bergen HS138 *
+- Stokholm HS140 * 
+- Stokholm HS108 *
+- Budapest HS132 *
+- Jojowo HS49 *
+- Piaski HS123 * 
+- Delnice HS95 *
+- Warsaw HS70 *
+- Strzyżów HS30 *
+- Lindau HS108 - (Pat Sch) *
+- Zawoja HS144 - (Pat Sch) *
+- Lindau HS40 - (Pat Sch) *
+- Stary Smokovec HS136 - (Pat Sch) *
+- Neckarsulm HS152 - (Pat Sch) *
+- Zenica HS130 - (Pat Sch) 
+- Rechnitz HS138 - (Pat Sch) *
+- Stjordal HS143 - (Pat Sch) *
+- Santo Domingo HS129 *
+- Korbielow HS205 (Jonek2208) *
+- Chernobyl K86 (Jonek2208) *
+- Vikersund HS225 (2012-2017) ^
+- Planica HS225 ^
+- Kulm HS225 ^
+- Oberstdorf HS225 ^
+- Planica HS215 ^
+- Vikersund HS207 ^
+
+
+Legenda:
+* - Skocznia fikcyjna
+^ - Skocznia stara lub bez certyfikatu
+(DSJ2) - Skocznia z DSJ2
+(DSJ3) - Skocznia z DSJ3
+
 
 [ENG]
 
