@@ -18,8 +18,14 @@ zjedź na sam dół pliku i znajdź znak } pod parametrami skoczni dopisz po tym
 
 Jeżeli jest jakaś nazwa w nawiasie po myślniku obok nazwy skoczni to jest to osoba która zrobiła tą skocznie.
 
-Zobacz jeszcze paczke kalendarzy: https://github.com/SiekamCebule/Open-Ski-Jumping-Calendars
+W folderach są różne rodzaje skoczni:
+Fikcyjne skocznie
+DSJ2
+DSJ3
+Stare skocznie lub takie bez certyfikatu
 
+w pliku data są wszysykie skocznie
+w pliku .txt są tylko skocznie z mojej paczki, a w plku .json również ze oryginalnymi skoczniami aby było można po prostu podmienić te pliku.
 
 
 Lista Skoczni / Hills List:
@@ -80,4 +86,13 @@ go to the bottom of the file and find the} sign under the hill parameters, add a
 
 If there is a name in brackets after the dash next to the name of the hill then it is the person who made the hill.
 
-See also a packet of calendars: https://github.com/SiekamCebule/Open-Ski-Jumping-Calendars
+There are different types of hills in the folders:
+Fictitious hills
+DSJ2
+DSJ3
+Old Hills or ones without a certificate
+
+
+there is also data.json, and data.txt which have all hills.
+in the .txt file there are only hills from my package, and in .json also with original hills so that you can simply replace these files.
+
