@@ -68,19 +68,16 @@ Lista Skoczni / Hills List:
 - Santo Domingo HS129 *
 - Korbielow HS205 (Jonek2208) *
 - Chernobyl K86 (Jonek2208) *
-- Vikersund HS225 (2012-2017) ^
-- Planica HS225 ^
-- Kulm HS225 ^
-- Oberstdorf HS225 ^
-- Planica HS215 ^
-- Vikersund HS207 ^
-
+- Vikersund HS225 (Old)
+- Planica HS225 (Old)
+- Planica HS215 (Old)
+- Achomitz HS80 (Old)
 
 Legenda:
-* - Skocznia fikcyjna
-^ - Skocznia stara lub bez certyfikatu
-(DSJ2) - Skocznia z DSJ2
-(DSJ3) - Skocznia z DSJ3
+* - Skocznia fikcyjna / Fiction hill
+(Old) -  Skocznia stara lub bez certyfikatu / The hill is old or without certificate
+(DSJ2) - Skocznia z DSJ2 / Hill from DSJ2
+(DSJ3) - Skocznia z DSJ3 / Hill from DSJ3
 
 
 [ENG]
