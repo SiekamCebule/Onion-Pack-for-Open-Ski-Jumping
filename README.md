@@ -1,6 +1,6 @@
 # Open-Ski-Jumping-Fiction-Hill-Pack
 
-<img src="https://media.discordapp.net/attachments/573577168186114069/702169663991447692/Onion_Hills_Pack.png?width=1120&height=630">
+<img src="https://media.discordapp.net/attachments/703146900706164736/704704584697774144/cover.png?width=1440&height=592">
 
 [PL]
 
