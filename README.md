@@ -74,7 +74,7 @@ Lista Skoczni / Hills List:
 - Achomitz HS80 (Old)
 
 Legenda:
-* - Skocznia fikcyjna / Fiction hill
+Z gwiazdką / With an asterisk - Skocznia fikcyjna / Fiction hill
 (Old) -  Skocznia stara lub bez certyfikatu / The hill is old or without certificate
 (DSJ2) - Skocznia z DSJ2 / Hill from DSJ2
 (DSJ3) - Skocznia z DSJ3 / Hill from DSJ3
