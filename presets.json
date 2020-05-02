@@ -1,12 +1,96 @@
 [
     {
+        "name": "Individual2Rounds",
+        "roundInfos": [
+            {
+                "roundType": "Normal",
+                "outLimitType": "Normal",
+                "outLimit": 30,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            }
+        ]
+    },
+    {
+        "name": "IndividualKO",
+        "roundInfos": [
+            {
+                "roundType": "KO",
+                "outLimitType": "Normal",
+                "outLimit": 30,
+                "has95Rule": true,
+                "reversedBibs": true,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": true,
+                "reversedBibs": true,
+                "reassignBibs": false
+            }
+        ]
+    },
+    {
+        "name": "Individual2Rounds15",
+        "roundInfos": [
+            {
+                "roundType": "Normal",
+                "outLimitType": "Normal",
+                "outLimit": 15,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            }
+        ]
+    },
+    {
+        "name": "IndividualKO15",
+        "roundInfos": [
+            {
+                "roundType": "KO",
+                "outLimitType": "Normal",
+                "outLimit": 15,
+                "has95Rule": true,
+                "reversedBibs": true,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": true,
+                "reversedBibs": true,
+                "reassignBibs": false
+            }
+        ]
+    },
+    {
         "name": "Qualification",
         "roundInfos": [
             {
                 "roundType": "Normal",
                 "outLimitType": "Normal",
-                "outLimit": 12,
-                "has95Rule": false,
+                "outLimit": 50,
+                "has95Rule": true,
                 "reversedBibs": false,
                 "reassignBibs": false
             }
@@ -18,8 +102,8 @@
             {
                 "roundType": "Normal",
                 "outLimitType": "Exact",
-                "outLimit": 12,
-                "has95Rule": false,
+                "outLimit": 50,
+                "has95Rule": true,
                 "reversedBibs": false,
                 "reassignBibs": false
             }
@@ -31,20 +115,20 @@
             {
                 "roundType": "Normal",
                 "outLimitType": "Normal",
-                "outLimit": 12,
-                "has95Rule": false,
+                "outLimit": 40,
+                "has95Rule": true,
                 "reversedBibs": false,
                 "reassignBibs": false
             }
         ]
     },
     {
-        "name": "Individual2Rounds",
+        "name": "Individual2Rounds No95Rule",
         "roundInfos": [
             {
                 "roundType": "Normal",
                 "outLimitType": "Normal",
-                "outLimit": 8,
+                "outLimit": 30,
                 "has95Rule": false,
                 "reversedBibs": false,
                 "reassignBibs": false
@@ -53,6 +137,129 @@
                 "roundType": "Normal",
                 "outLimitType": "None",
                 "outLimit": -1,
+                "has95Rule": false,
+                "reversedBibs": false,
+                "reassignBibs": false
+            }
+        ]
+    },
+    {
+        "name": "Individual4Rounds No95Rule",
+        "roundInfos": [
+            {
+                "roundType": "Normal",
+                "outLimitType": "Normal",
+                "outLimit": 30,
+                "has95Rule": false,
+                "reversedBibs": false,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": false,
+                "reversedBibs": false,
+                "reassignBibs": false
+            }
+        ]
+    },
+    {
+        "name": "Individual2Rounds15 No95Rule",
+        "roundInfos": [
+            {
+                "roundType": "Normal",
+                "outLimitType": "Normal",
+                "outLimit": 15,
+                "has95Rule": false,
+                "reversedBibs": false,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": false,
+                "reversedBibs": false,
+                "reassignBibs": false
+            }
+        ]
+    },
+    {
+        "name": "IndividualKO15 No95Rule",
+        "roundInfos": [
+            {
+                "roundType": "KO",
+                "outLimitType": "Normal",
+                "outLimit": 15,
+                "has95Rule": false,
+                "reversedBibs": true,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": false,
+                "reversedBibs": true,
+                "reassignBibs": false
+            }
+        ]
+    },
+    {
+        "name": "IndividualKO No95Rule",
+        "roundInfos": [
+            {
+                "roundType": "KO",
+                "outLimitType": "Normal",
+                "outLimit": 30,
+                "has95Rule": false,
+                "reversedBibs": true,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": false,
+                "reversedBibs": true,
+                "reassignBibs": false
+            }
+        ]
+    },
+    {
+        "name": "Qualification No95Rule",
+        "roundInfos": [
+            {
+                "roundType": "Normal",
+                "outLimitType": "Normal",
+                "outLimit": 50,
+                "has95Rule": false,
+                "reversedBibs": false,
+                "reassignBibs": false
+            }
+        ]
+    },
+    {
+        "name": "QualificationKO No95Rule",
+        "roundInfos": [
+            {
+                "roundType": "Normal",
+                "outLimitType": "Exact",
+                "outLimit": 50,
+                "has95Rule": false,
+                "reversedBibs": false,
+                "reassignBibs": false
+            }
+        ]
+    },
+    {
+        "name": "QualificationFlying No95Rule",
+        "roundInfos": [
+            {
+                "roundType": "Normal",
+                "outLimitType": "Normal",
+                "outLimit": 40,
                 "has95Rule": false,
                 "reversedBibs": false,
                 "reassignBibs": false
@@ -65,16 +272,16 @@
             {
                 "roundType": "Normal",
                 "outLimitType": "Normal",
-                "outLimit": 8,
-                "has95Rule": false,
+                "outLimit": 30,
+                "has95Rule": true,
                 "reversedBibs": false,
                 "reassignBibs": false
             },
             {
                 "roundType": "Normal",
                 "outLimitType": "Normal",
-                "outLimit": -1,
-                "has95Rule": false,
+                "outLimit": 30,
+                "has95Rule": true,
                 "reversedBibs": false,
                 "reassignBibs": false
             },
@@ -82,7 +289,7 @@
                 "roundType": "Normal",
                 "outLimitType": "None",
                 "outLimit": -1,
-                "has95Rule": false,
+                "has95Rule": true,
                 "reversedBibs": false,
                 "reassignBibs": true
             },
@@ -90,29 +297,390 @@
                 "roundType": "Normal",
                 "outLimitType": "None",
                 "outLimit": -1,
-                "has95Rule": false,
+                "has95Rule": true,
                 "reversedBibs": false,
                 "reassignBibs": false
             }
         ]
     },
     {
-        "name": "IndividualKO",
+        "name": "Individual5Rounds",
         "roundInfos": [
             {
-                "roundType": "KO",
+                "roundType": "Normal",
                 "outLimitType": "Normal",
-                "outLimit": 8,
-                "has95Rule": false,
-                "reversedBibs": true,
+                "outLimit": 30,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "Normal",
+                "outLimit": 30,
+                "has95Rule": true,
+                "reversedBibs": false,
                 "reassignBibs": false
             },
             {
                 "roundType": "Normal",
                 "outLimitType": "None",
                 "outLimit": -1,
-                "has95Rule": false,
-                "reversedBibs": true,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": true
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            }
+        ]
+    },
+    {
+        "name": "Individual6Rounds",
+        "roundInfos": [
+            {
+                "roundType": "Normal",
+                "outLimitType": "Normal",
+                "outLimit": 30,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "Normal",
+                "outLimit": 30,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": true
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            }
+        ]
+    },
+    {
+        "name": "Individual7Rounds",
+        "roundInfos": [
+            {
+                "roundType": "Normal",
+                "outLimitType": "Normal",
+                "outLimit": 30,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "Normal",
+                "outLimit": 30,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": true
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            }
+        ]
+    },
+    {
+        "name": "Individual8Rounds",
+        "roundInfos": [
+            {
+                "roundType": "Normal",
+                "outLimitType": "Normal",
+                "outLimit": 30,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "Normal",
+                "outLimit": 30,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": true
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            }
+        ]
+    },
+    {
+        "name": "Individual9Rounds",
+        "roundInfos": [
+            {
+                "roundType": "Normal",
+                "outLimitType": "Normal",
+                "outLimit": 30,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "Normal",
+                "outLimit": 30,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": true
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            }
+        ]
+    },
+    {
+        "name": "Individual10Rounds",
+        "roundInfos": [
+            {
+                "roundType": "Normal",
+                "outLimitType": "Normal",
+                "outLimit": 30,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "Normal",
+                "outLimit": 30,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": true
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": true,
+                "reversedBibs": false,
+                "reassignBibs": false
+            },
+            {
+                "roundType": "Normal",
+                "outLimitType": "None",
+                "outLimit": -1,
+                "has95Rule": true,
+                "reversedBibs": false,
                 "reassignBibs": false
             }
         ]
