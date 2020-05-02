@@ -69,9 +69,13 @@ Lista Skoczni / Hills List:
 - Korbielow HS205 (Jonek2208) *
 - Chernobyl K86 (Jonek2208) *
 - Vikersund HS225 (Old)
+- Oberstdorf HS225 (Old)
+- Bad Mittendorf HS225 (Old)
 - Planica HS225 (Old)
 - Planica HS215 (Old)
 - Achomitz HS80 (Old)
+- Seefeld HS100 (Old)
+- Eisenerz-Ramsau HS100 (Old)
 
 Legenda:
 Z gwiazdką / With an asterisk - Skocznia fikcyjna / Fiction hill
