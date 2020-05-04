@@ -25,7 +25,7 @@ DSJ3
 Stare skocznie lub takie bez certyfikatu
 
 w pliku data są wszysykie skocznie
-w pliku .txt są tylko skocznie z mojej paczki, a w plku .json również ze oryginalnymi skoczniami aby było można po prostu podmienić te pliku.
+w pliku .txt są tylko skocznie z mojej paczki, a w plku .json również z oryginalnymi skoczniami aby było można po prostu podmienić te pliku.
 
 
 Lista Skoczni / Hills List:
