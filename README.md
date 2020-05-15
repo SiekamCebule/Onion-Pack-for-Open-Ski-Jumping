@@ -56,7 +56,7 @@ Lista Skoczni / Hills List:
 - Piaski HS123 * 
 - Delnice HS95 *
 - Warsaw HS70 *
-- Strzyżów HS30 *
+- Strzyżów HS30 (iSeb) *
 - Lindau HS108 - (Pat Sch) *
 - Zawoja HS144 - (Pat Sch) *
 - Lindau HS40 - (Pat Sch) *
